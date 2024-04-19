@@ -1,2 +1,2 @@
 # TestGitDemo
-This is Lear Git 
+This is Learn Git 
